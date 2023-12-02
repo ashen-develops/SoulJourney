@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\EpicGames\\Unreal_Projects\\SoulJourney\\Source\\SoulJourney\\SoulJourney.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\EpicGames\\Unreal_Projects\\SoulJourney\\.vscode\\compileCommands_SoulJourney\\SoulJourney.1.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\EpicGames\\Unreal_Projects\\SoulJourney\\Source\\SoulJourney\\SoulJourney.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\EpicGames\\Unreal_Projects\\SoulJourney\\.vscode\\compileCommands_SoulJourney\\SoulJourney.1.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\EpicGames\\Unreal_Projects\\SoulJourney\\Source\\SoulJourney\\SoulJourney.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\EpicGames\\Unreal_Projects\\SoulJourney\\.vscode\\compileCommands_SoulJourney\\SoulJourney.1.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.3\\Engine\\Source"
+	}
+]
